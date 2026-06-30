@@ -1,0 +1,97 @@
+﻿@page "/employees"
+@inject IHttpClientFactory ClientFactory
+@inject NavigationManager Nav
+@using EmployeePortal.Blazor.Models
+
+<h1 class="mb-4">Employees</h1>
+
+<div class="d-flex justify-content-between mb-3">
+    <div>
+        <strong>Total:</strong> @employees?.Count
+    </div>
+
+    <button class="btn btn-primary" @onclick="CreateEmployee">
+        + Add Employee
+    </button>
+</div>
+
+@if (employees == null)
+{
+    <p>Loading employees...</p>
+}
+else if (!employees.Any())
+{
+    <div class="alert alert-warning">
+        No employees found.
+    </div>
+}
+else
+{
+    <table class="table table-hover table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th>Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Department</th>
+                <th style="width: 150px;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var emp in employees)
+            {
+                <tr>
+                    <td>@emp.Id</td>
+                    <td>@emp.FirstName</td>
+                    <td>@emp.LastName</td>
+                    <td>@emp.Email</td>
+                    <td>@emp.Department</td>
+                    <td>
+                        <button class="btn btn-sm btn-warning me-2"
+                                @onclick="() => EditEmployee(emp.Id)">
+                            Edit
+                        </button>
+
+                        <button class="btn btn-sm btn-danger"
+                                @onclick="() => DeleteEmployee(emp.Id)">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<EmployeeDto>? employees;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadEmployees();
+    }
+
+    private async Task LoadEmployees()
+    {
+        var http = ClientFactory.CreateClient("EmployeePortalApi");
+        employees = await http.GetFromJsonAsync<List<EmployeeDto>>("api/employees");
+    }
+
+    private void CreateEmployee()
+    {
+        Nav.NavigateTo("/employees/create");
+    }
+
+    private void EditEmployee(int id)
+    {
+        Nav.NavigateTo($"/employees/edit/{id}");
+    }
+
+    private async Task DeleteEmployee(int id)
+    {
+        var http = ClientFactory.CreateClient("EmployeePortalApi");
+        await http.DeleteAsync($"api/employees/{id}");
+        await LoadEmployees();
+    }
+}

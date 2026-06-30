@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzNXO/1a4I0=",
+  "success": true,
+  "projectFilePath": "C:\\EmpProj\\EmployeePortal\\src\\EmployeePortal.Blazor\\EmployeePortal.Blazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tatiana\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

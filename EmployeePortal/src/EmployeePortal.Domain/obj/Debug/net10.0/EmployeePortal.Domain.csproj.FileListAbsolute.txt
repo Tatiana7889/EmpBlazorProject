@@ -1,0 +1,11 @@
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\bin\Debug\net10.0\EmployeePortal.Domain.deps.json
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\bin\Debug\net10.0\EmployeePortal.Domain.dll
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\bin\Debug\net10.0\EmployeePortal.Domain.pdb
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\EmployeePortal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\EmployeePortal.Domain.AssemblyInfoInputs.cache
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\EmployeePortal.Domain.AssemblyInfo.cs
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\EmployeePortal.Domain.csproj.CoreCompileInputs.cache
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\EmployeePortal.Domain.dll
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\refint\EmployeePortal.Domain.dll
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\EmployeePortal.Domain.pdb
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Domain\obj\Debug\net10.0\ref\EmployeePortal.Domain.dll

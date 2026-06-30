@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EmployeePortal.Api/EmployeePortal.Api.csproj" />
+    <Project Path="src/EmployeePortal.Application/EmployeePortal.Application.csproj" />
+    <Project Path="src/EmployeePortal.Blazor/EmployeePortal.Blazor.csproj" />
+    <Project Path="src/EmployeePortal.Domain/EmployeePortal.Domain.csproj" />
+    <Project Path="src/EmployeePortal.Infrastructure/EmployeePortal.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EmployeePortal.ApiTests/EmployeePortal.ApiTests.csproj" />
+    <Project Path="tests/EmployeePortal.UnitTests/EmployeePortal.UnitTests.csproj" />
+  </Folder>
+</Solution>

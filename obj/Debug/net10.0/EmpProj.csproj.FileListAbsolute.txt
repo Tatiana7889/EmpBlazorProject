@@ -1,0 +1,8 @@
+C:\EmpProj\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\EmpProj\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\EmpProj\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\EmpProj\obj\Debug\net10.0\EmpProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\EmpProj\obj\Debug\net10.0\EmpProj.AssemblyInfoInputs.cache
+C:\EmpProj\obj\Debug\net10.0\EmpProj.AssemblyInfo.cs
+C:\EmpProj\obj\Debug\net10.0\EmpProj.csproj.CoreCompileInputs.cache
+C:\EmpProj\obj\Debug\net10.0\EmpProj.MvcApplicationPartsAssemblyInfo.cache

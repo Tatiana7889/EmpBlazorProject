@@ -1,0 +1,15 @@
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\bin\Debug\net10.0\EmployeePortal.Application.deps.json
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\bin\Debug\net10.0\EmployeePortal.Application.dll
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\bin\Debug\net10.0\EmployeePortal.Application.pdb
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\bin\Debug\net10.0\EmployeePortal.Domain.dll
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\bin\Debug\net10.0\EmployeePortal.Domain.pdb
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.csproj.AssemblyReference.cache
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.AssemblyInfoInputs.cache
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.AssemblyInfo.cs
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.csproj.CoreCompileInputs.cache
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\Employee.FB39F337.Up2Date
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.dll
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\refint\EmployeePortal.Application.dll
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.pdb
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\ref\EmployeePortal.Application.dll
