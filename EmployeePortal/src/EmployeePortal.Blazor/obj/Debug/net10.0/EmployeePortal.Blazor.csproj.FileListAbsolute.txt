@@ -15,6 +15,7 @@ C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\EmployeePo
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\EmployeePortal.Blazor.AssemblyInfo.cs
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\EmployeePortal.Blazor.csproj.CoreCompileInputs.cache
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\EmployeePortal.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\EmployeePortal.Blazor.sourcelink.json
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Blazor\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

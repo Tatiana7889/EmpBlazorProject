@@ -88,6 +88,7 @@ C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\Emplo
 C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\EmployeePortal.UnitTests.AssemblyInfoInputs.cache
 C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\EmployeePortal.UnitTests.AssemblyInfo.cs
 C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\EmployeePortal.UnitTests.csproj.CoreCompileInputs.cache
+C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\EmployeePortal.UnitTests.sourcelink.json
 C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\Employee.C2D95597.Up2Date
 C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\EmployeePortal.UnitTests.dll
 C:\EmpProj\EmployeePortal\tests\EmployeePortal.UnitTests\obj\Debug\net10.0\refint\EmployeePortal.UnitTests.dll

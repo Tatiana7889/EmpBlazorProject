@@ -8,6 +8,7 @@ C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\Emplo
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.AssemblyInfoInputs.cache
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.AssemblyInfo.cs
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.csproj.CoreCompileInputs.cache
+C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.sourcelink.json
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\Employee.FB39F337.Up2Date
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\EmployeePortal.Application.dll
 C:\EmpProj\EmployeePortal\src\EmployeePortal.Application\obj\Debug\net10.0\refint\EmployeePortal.Application.dll
