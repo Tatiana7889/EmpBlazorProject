@@ -13,7 +13,7 @@ public class EmployeeRepository : IEmployeeRepository
         _db = db;
     }
 
-    public Task<Employee?> GetByIdAsync(Guid id)
+    public Task<Employee?> GetByIdAsync(int id)
     {
         return _db.Employees.FirstOrDefaultAsync(e => e.Id == id);
     }
@@ -35,7 +35,7 @@ public class EmployeeRepository : IEmployeeRepository
         await _db.SaveChangesAsync();
     }
 
-    public async Task DeleteAsync(Guid id)
+    public async Task DeleteAsync(int id)
     {
         var entity = await GetByIdAsync(id);
         if (entity is null) return;
