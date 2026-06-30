@@ -1,12 +1,5 @@
 # EmployeePortal
-EmployeePortal
-│
-├── EmployeePortal.Blazor
-├── EmployeePortal.Api
-├── EmployeePortal.Application
-├── EmployeePortal.Domain
-├── EmployeePortal.Infrastructure
-└── EmployeePortal.Tests
+
 A full Clean Architecture enterprise application demonstrating:
 
 - Blazor
